@@ -9,4 +9,7 @@
 * 隨機得到結果
 * 每次抽卡動畫結束，刪除該圖片
 
+
+## Demo 畫面
+
 ![image](https://github.com/JeremyXue77/SlotMachineAnimation-Simple-/blob/master/slotMachineAnimation.gif)
